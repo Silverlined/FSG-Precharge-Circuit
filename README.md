@@ -13,15 +13,16 @@ below 95%. Regardless, this design is incomplete. There are several design flaws
 
 2-layer PCB designed in EasyEDA. Gerber and assembly files are in the relevant repo folders.
 
-<img src="misc/diagram.png"
+
+  <img src="misc/schematic.png"
      alt="STRF"
      style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;"/>
-
-
-  <img src="misc/schematic.png"
+  
+  
+<img src="misc/diagram.png"
      alt="STRF"
      style="display: block;
   margin-left: auto;
